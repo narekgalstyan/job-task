@@ -1,0 +1,994 @@
+*{
+margin: 0;
+padding: 0;
+}
+header{
+display: flex;
+width: 100%;
+justify-content: center;
+margin-left: -50px;
+}
+
+body{
+background-color:rgb(219, 219, 219) ;
+}
+
+#svgIcons{
+margin-left: -170px;
+margin-top: -78px;
+}
+
+#Layer{
+fill: rgb(42, 129, 151);
+width: 30px;
+height: 30px;
+}
+
+#Layer_1{
+fill: rgb(42, 129, 151);
+width: 30px;
+height: 30px;
+margin-left: 80px;
+}
+
+#Layer_2{
+fill: rgb(42, 129, 151);
+margin-left:-220px;
+}
+
+#mobiicon{
+width: 30px;
+height: 30px;
+margin-left: 70px;
+}
+    
+#logo{
+width: 200px;
+height: 50px;
+margin-left: 50px;
+margin-top: 35px;
+z-index: 1;
+}
+
+#headerContact{
+color: rgb(42, 129, 151);
+margin-top: 48px;
+margin-left: 5px;
+}
+
+#headerButton{
+width: 140px;
+height: 40px;
+background-color: rgb(248, 62, 102);
+color: white;
+border-radius: 10px;
+margin-top: 37px;
+margin-left: 70px;
+text-align: center;
+}
+
+#headerButton h5{
+margin-top: 12px;
+text-transform: uppercase;
+cursor: pointer;
+}
+
+#companiJob{
+display: flex;
+margin-left: 190px;
+width: 100%;
+}
+
+#companiInfo{
+margin-top: 80px;
+width: 500px;
+}
+
+#companiInfoTitle1{
+color:rgb(42, 129, 151) ;
+}
+
+#companiInfoTitle2{
+color:rgb(42, 129, 151) ;
+}
+
+#companiInfoTitle3{
+color:rgb(42, 129, 151) ;
+color: rgb(42, 129, 151);
+position: relative;
+margin-left: 47px;
+margin-top: -37px;
+}
+
+#companiInfoText{
+margin-top: 15px;
+}
+
+#companiJobBut{
+width: 220px;
+height: 50px;
+border-radius: 10px;
+background-color: rgb(248, 62, 102);
+color: white;
+text-transform: uppercase;
+text-align: center;
+cursor: pointer;
+margin-top: 50px;
+}
+
+#text{
+padding-top: 17px;
+}
+
+#companiJobIm{
+width: 500px;
+margin-left: 374px;
+margin-top: -308px;
+border-right: 1px solid rgb(219, 219, 219);
+z-index: 2;
+}
+
+#reklamBarImg{
+width: 100%;
+z-index: 1;
+}
+
+#planProektIcons{
+display: flex;
+margin-left: 96px;
+}
+
+#proektIcons{
+width: 200px;
+height: 200px;
+border-radius: 30px;
+font-weight: 100;
+box-shadow: 0  4px 4px 1px rgba(17, 115, 139, 0.5);
+}
+
+#proektIconsh4{
+margin-left: 27px;
+color: rgb(97, 94, 56);
+}
+
+#iconAll{
+fill: rgb(42, 129, 151);
+width: 20%;
+height: 20%;
+position: absolute;
+margin-top: -140px;
+margin-left: -28px;
+}
+
+#ots{
+width: 25px;
+}
+
+main{
+  margin-top: 1000px;
+  margin-left: 5px;
+  position: absolute;
+}
+
+
+#spec{
+margin-left: 42PX;
+}
+
+#mainBlok2{
+display: flex;
+margin-left: 200px;
+margin-top: 30px;
+}
+#mainBlok2iInfo{
+margin-top: 60px;
+margin-left: 200px;
+}
+    
+#mainBlok2InfoTitle{
+color:rgb(42, 129, 151) ;
+}
+    
+#mainBlok2InfoText{
+margin-top: 15px;
+}
+    
+#mainBlok2interwBut{
+width: 220px;
+height: 50px;
+border-radius: 10px;
+background-color: rgb(248, 62, 102);
+color: white;
+text-transform: uppercase;
+text-align: center;
+cursor: pointer;
+margin-top: 20px;
+}
+    
+#mainBlok2Img{
+width: 400px;
+margin-left: -20px;
+margin-top: 20px;
+z-index: 2;
+}
+
+#mainBaner{
+width: 100%;
+height: 250px;
+}
+
+#mainIcons{
+display: flex;
+margin-top: 100px;
+}
+
+#iconsBlok{
+width: 160px;
+height: 200px;
+border-radius: 30px;
+font-weight: 100;
+box-shadow: 0  4px 4px 1px rgba(17, 115, 139, 0.5); 
+position: relative;  
+}
+
+#iconsround{
+background-color:rgb(42, 129, 151) ;
+width: 100px;
+height:100px;
+fill: white;
+border-radius: 50px;
+position: absolute;
+margin-left: 30px;
+margin-top: 5px;
+}
+
+#iconAll2{
+fill: rgb(211, 255, 255);
+width: 70px;
+height: 70px;
+position: absolute;
+margin-top: -133px;
+margin-left: 46px;
+}
+
+#iconAll2spec{
+fill: rgb(211, 255, 255);
+width: 70px;
+height: 70px;
+position: absolute;
+margin-top: -136px;
+margin-left: 52px;
+}
+
+#mainIcons h4{
+color: rgb(42, 129, 151);
+margin-left: 44px;
+margin-top: -41px;
+text-transform: uppercase;
+font-size: 12px;
+}
+
+#mainIcons h3{
+color: rgb(42, 129, 151);
+margin-left: 37px;
+margin-top: -41px;
+text-transform: uppercase;
+font-size: 12px;
+position: absolute;
+}
+
+#mainIcons h5{
+color: rgb(42, 129, 151);
+margin-left: 38px;
+margin-top: -41px;
+text-transform: uppercase;
+font-size: 12px;
+}
+
+#ots1{
+width: 150px;
+height: 79px;
+background-color: rgb(42, 129, 151);
+margin-top: 63px;
+}
+
+#otsSpec{
+width: 150px;
+height: 79px;
+background-color: rgb(42, 129, 151);
+margin-top: 63px;
+}
+ 
+#ots2{
+width: 120px;
+height: 79px;
+background-color: rgb(42, 129, 151);
+margin-top: 63px;
+}
+
+#mainBut{
+width: 120px;
+height: 30px;
+border-radius: 10px;
+background-color: rgb(248, 62, 102);
+text-transform: uppercase;
+text-align: center;
+cursor: pointer;
+margin-top: 18px;
+padding-top: 5px;
+margin-left: 20px;
+}
+
+#mainBaner2{
+display: none;
+}
+#mainButSaas{
+width: 120px;
+height: 30px;
+border-radius: 10px;
+background-color: rgb(248, 62, 102);
+text-transform: uppercase;
+text-align: center;
+cursor: pointer;
+margin-top: 15px;
+padding-top: 5px;
+margin-left: 20px;
+}
+
+#mainButiot{
+width: 120px;
+height: 30px;
+border-radius: 10px;
+background-color: rgb(248, 62, 102);
+text-transform: uppercase;
+text-align: center;
+cursor: pointer;
+margin-top: 15px;
+padding-top: 5px;
+margin-left: 20px;
+}
+
+#mainButaplic{
+width: 120px;
+height: 30px;
+border-radius: 10px;
+background-color: rgb(248, 62, 102);
+text-transform: uppercase;
+text-align: center;
+cursor: pointer;
+margin-top: -9px;
+padding-top: 5px;
+margin-left: 20px;
+}
+
+#mainButsrm{
+width: 120px;
+height: 30px;
+border-radius: 10px;
+background-color: rgb(248, 62, 102);
+text-transform: uppercase;
+text-align: center;
+cursor: pointer;
+margin-top: -9px;
+padding-top: 5px;
+margin-left: 20px;
+}
+
+#mainButblokchain{
+width: 120px;
+height: 30px;
+border-radius: 10px;
+background-color: rgb(248, 62, 102);
+text-transform: uppercase;
+text-align: center;
+cursor: pointer;
+margin-top: -9px;
+padding-top: 5px;
+margin-left: 20px;
+}
+#text2{
+font-size: 13px;
+color: white;
+text-align: center;
+margin-top: 5px;
+}
+
+#mainIcons2{
+display: flex;
+margin-top: 20px;
+}
+
+#mainIcons2 h4{
+color: rgb(42, 129, 151);
+margin-left: 61px;
+margin-top: -41px;
+text-transform: uppercase;
+font-size: 12px;
+}
+
+#mainIcons2 h3{
+color: rgb(42, 129, 151);
+margin-left: 53px;
+margin-top: -41px;
+text-transform: uppercase;
+font-size: 12px;
+position: absolute;
+}
+
+#mainIcons2 h6{
+color: rgb(42, 129, 151);
+margin-left: 40px;
+margin-top: -41px;
+text-transform: uppercase;
+font-size: 12px;
+position: absolute;
+}
+
+#mainIcons2 h5{
+color: rgb(42, 129, 151);
+margin-left: 58px;
+margin-top: -41px;
+text-transform: uppercase;
+font-size: 12px;
+}
+
+#footer1blok{
+display: flex;
+margin-top: 3px;
+margin-left: 351px;
+}
+
+#footer2blok{
+margin-top: 80px;
+margin-left: 40px;
+}
+
+#footerImg{
+margin-top: 55px;
+margin-left: 5px;
+width: 242px;
+height: 183px;
+}
+
+#footerButton{
+width: 166px;
+height: 48px;
+background-color: rgb(248, 62, 102);
+color: white;
+border-radius: 10px;
+margin-top: 126px;
+margin-left: 70px;
+text-align: center;
+}
+
+#footerButton h5{
+margin-top: 16px;
+position: absolute;
+margin-left: 18px;
+text-transform: uppercase;
+} 
+
+#footersvgIcons{
+margin-left: 288px;
+margin-top: -78px;
+}
+
+#footerMasageIcon{
+fill: rgb(42, 129, 151);
+width: 30px;
+height: 30px;
+margin-left: 14px;
+position: absolute;
+margin-top: 120px;
+}
+
+#footerLayer_1{
+fill: rgb(42, 129, 151);
+width: 30px;
+height: 30px;
+margin-left: 80px;
+}
+
+#footerTelegramIcon_2{
+fill: rgb(42, 129, 151);
+margin-left:-200px;
+}
+
+#footermobilicon{
+width: 30px;
+height: 30px;
+margin-left: 70px;
+margin-top: -6px;
+}
+
+#footerContact{
+color: rgb(42, 129, 151);
+}
+
+footer p {
+margin-left: 884px;
+margin-top: -65px;
+font-size: 12px;
+position: absolute;
+}
+
+footer h3{
+color:rgb(42, 129, 151) ;
+margin-left: 300px;
+margin-top: -48px;
+font-size: 12px;
+}
+
+footer h4{
+color:rgb(42, 129, 151) ;
+color: rgb(42, 129, 151);
+margin-left: 300px;
+margin-top: 12px;
+font-size: 12px;
+}
+
+footer h6{
+color:rgb(42, 129, 151) ;
+margin-left: 489px;
+margin-top: -43px;
+font-size: 12px;
+position: relative;
+}
+
+#footerLogo{
+margin-top: -14px;
+width: 200px;
+height: 50px;
+margin-left: 84px;
+}
+
+#mobilIconBlok{
+display: flex;
+margin-left: 89px;
+margin-top: -20px
+}
+
+#footerproektIcons{
+width: 70px;
+height: 70px;
+border-radius: 15px;
+font-weight: 100;
+background-color: rgb(42, 129, 151);
+margin-left: 468px;
+margin-top: -75px;
+}
+
+#footerTextIcon{
+fill: white;
+width: 50px;
+height: 50px;
+position: absolute;
+margin-top: -144px;
+margin-left: 11px;
+}
+
+#footerH2{
+  display: none;
+}
+#nextandprev{
+  display: none;
+}
+
+#mainnextandprev{
+  
+  display: none;
+}
+
+
+@media only screen and (max-width: 300px) {
+    #iconsround {
+      width: 474px;
+      height: 440px;
+      margin-left: 137px;
+      border-radius: 237px;
+      margin-top: 48px;
+    }
+    #ots1 {
+      width: 148px;
+      margin-top: 392px;
+      height: 253px;
+    }
+     #ots2{
+    width: 148px;
+    margin-top: 392px;
+    height: 256px;
+    }
+
+    #otsSpec{
+      display: none;
+    }
+    #logo{
+      margin-left: 900px;
+      margin-top: 5px;
+      width: 1000px;
+      height: 185px;
+    }
+    #companiInfo{
+      margin-top: 30px;
+      margin-left: -11px;
+    }
+    #companiJobIm{
+      width: 1529px;
+      margin-left: -288px;
+      margin-top: 32px;
+      position: absolute;
+    }
+    #companiInfoTitle3{
+      margin-top: 5px;
+    }
+    #companiInfoTitle1{
+      width: 200px;
+      margin-left: 81px;
+      font-size: 102px;
+    }
+    #companiInfoTitle2{
+      width: 200px;
+      margin-left: 31px;
+      font-size: 102px;
+    }
+    #companiInfoTitle3{
+      font-size: 100px;
+      margin-top: -116px;
+      margin-left: 172px;
+    }
+    #companiInfoText{
+      font-size: 32px;
+      margin-left: 193px;
+    }
+    #companiJobBut{
+      width: 400px;
+      height: 93px;
+      border-radius: 15px;
+      padding-top: 23px;
+      margin-left: 133px;
+    }
+    #proektIcons{
+      padding: 253px;
+      border-radius: 103px;
+      transition: all ease 1s;
+    }
+    #proektIconsh4{
+    margin-left: -76px;
+    color: rgb(97, 94, 56);
+    font-size: 86px;
+    margin-top: 61px;
+    }
+    #ots{
+      margin-left: 170px;
+      }
+      #iconAll{
+        width: 147%;
+        height: 99%;
+        margin-left: -120px;
+        margin-top: -497px;
+      }
+    #reklamBarImg {
+      width: 4015px;
+      margin-top: 928px;
+      margin-left: 2px;
+    }
+    #planProektIcons{
+      margin-left: 0;
+      margin-top: -100px;
+      position: relative;
+      transition: all ease 1s;
+    }
+    #text{
+      font-size: 29px;
+    }
+    #svgIcons{
+      display: none;
+     }
+     #mainIcons2 {
+      margin-top: 101px;
+     }
+      #companiJob{
+        display: block;
+      }
+      #headerContact{
+      display: none;
+      }
+      #headerButton{
+      display: none;
+      }
+      #main3blok{
+        display: flex;
+      }
+      #mainBlok2iInfo {
+        margin-top: 60px;
+        margin-left: 374px;
+      }
+      #mainBlok2Img{
+        margin-top: 1488px;
+        position: absolute;
+        width: 932px;
+        margin-left: -140px;
+      }
+      #mainBlok2InfoTitle{
+        margin-top: 5px;
+        font-size: 96px;
+        margin-left: -289px;
+      }
+      #mainBlok2InfoText {
+        margin-top: 15px;
+        font-size: 60px;
+        margin-left: -239px;
+    }
+    #mainBlok2interwBut{
+        margin-top: 972px;
+        width: 466px;
+        margin-left: -282px;
+        height: 119px;
+        border-radius: 20px;
+    }
+    #text {
+      padding: 31px;
+      font-size: 29px;
+      margin-top: -27px;
+    }
+    #mainBaner{
+      display: none;
+    }
+    #iconsBlok {
+      width: 750px;
+      height: 895px;
+      border-radius: 106px;
+    }
+    #iconAll2 {
+      fill: rgb(211, 255, 255);
+      width: 339px;
+      height: 404px;
+      position: absolute;
+      margin-top: 65px;
+      margin-left: -88px;
+  }
+  #mainBut {
+    width: 460px;
+    height: 124px;
+    border-radius: 20px;
+    background-color: rgb(248, 62, 102);
+    text-transform: uppercase;
+    text-align: center;
+    cursor: pointer;
+    margin-top: 551px;
+    padding-top: 4px;
+    margin-left: 143px;
+}
+#text2 {
+  font-size: 59px;
+  color: white;
+  text-align: center;
+  margin-top: 22px;
+}
+#iconAll2spec {
+  fill: rgb(211, 255, 255);
+  width: 331px;
+  height: 336px;
+  position: absolute;
+  margin-top: 106px;
+  margin-left: -52px;
+}
+#mainButSaas {
+  width: 462px;
+  height: 122px;
+  border-radius: 20px;
+  background-color: rgb(248, 62, 102);
+  text-transform: uppercase;
+  text-align: center;
+  cursor: pointer;
+  margin-top: 531px;
+  padding-top: 5px;
+  margin-left: 151px;
+}
+
+#mainButiot {
+  width: 462px;
+  height: 122px;
+  border-radius: 20px;
+  background-color: rgb(248, 62, 102);
+  text-transform: uppercase;
+  text-align: center;
+  cursor: pointer;
+  margin-top: 80px;
+  padding-top: 5px;
+  margin-left: 151px;
+}
+#mainButaplic {
+  width: 462px;
+  height: 122px;
+  border-radius: 20px;
+  background-color: rgb(248, 62, 102);
+  text-transform: uppercase;
+  text-align: center;
+  cursor: pointer;
+  margin-top: 555px;
+  padding-top: 5px;
+  margin-left: 151px;
+}
+#mainButsrm {
+  width: 462px;
+  height: 122px;
+  border-radius: 20px;
+  background-color: rgb(248, 62, 102);
+  text-transform: uppercase;
+  text-align: center;
+  cursor: pointer;
+  margin-top: 555px;
+  padding-top: 5px;
+  margin-left: 151px;
+}
+#mainButblokchain {
+  width: 462px;
+  height: 122px;
+  border-radius: 20px;
+  background-color: rgb(248, 62, 102);
+  text-transform: uppercase;
+  text-align: center;
+  cursor: pointer;
+  margin-top: 555px;
+  padding-top: 5px;
+  margin-left: 151px;
+}
+#mainIcons2 h6 {
+  color: rgb(42, 129, 151);
+  margin-left: 170px;
+  margin-top: 401px;
+  text-transform: uppercase;
+  font-size: 66px;
+  position: absolute;
+}
+#mainIcons2 h3 {
+  color: rgb(42, 129, 151);
+  margin-left: 225px;
+  margin-top: 401px;
+  text-transform: uppercase;
+  font-size: 66px;
+  position: absolute;
+}
+#mainIcons2 h4 {
+  color: rgb(42, 129, 151);
+  margin-left: 286px;
+  margin-top: 401px;
+  text-transform: uppercase;
+  font-size: 66px;
+  position: absolute;
+}
+#mainIcons h4 {
+  color: rgb(42, 129, 151);
+  margin-left: 204px;
+  margin-top: 401px;
+  text-transform: uppercase;
+  font-size: 66px;
+  position: relative;
+}
+#mainIcons2 h5 {
+  color: rgb(42, 129, 151);
+  margin-left: 263px;
+  margin-top: 401px;
+  text-transform: uppercase;
+  font-size: 66px;
+  position: absolute;
+}
+#mainIcons h3 {
+  color: rgb(42, 129, 151);
+  margin-left: 168px;
+  margin-top: 368px;
+  text-transform: uppercase;
+  font-size: 56px;
+  position: absolute;
+}
+#mainIcons h5 {
+  color: rgb(42, 129, 151);
+  margin-left: 161px;
+  margin-top: 400px;
+  text-transform: uppercase;
+  font-size: 64px;
+  position: absolute;
+}
+#footerButton {
+  width: 551px;
+  height: 153px;
+  background-color: rgb(248, 62, 102);
+  color: white;
+  border-radius: 26px;
+  margin-top: 767px;
+  margin-left: -81px;
+  text-align: center;
+  position: absolute;
+}
+
+#footerButton h5 {
+  margin-top: 50px;
+  position: absolute;
+  margin-left: 52px;
+  text-transform: uppercase;
+  font-size: 43px;
+}
+#footerImg {
+  margin-top: 124px;
+  margin-left: -189px;
+  width: 808px;
+  height: 562px;
+  position: absolute;
+}
+#footer2blok{
+  display: none;
+}
+
+#footerLogo{
+  display: none;
+}
+
+footer h3 {
+  display: none;
+}
+footer  h4{
+  display: none;
+}
+footer  p{
+  display: none;
+}
+footer h6 {
+  display: none;
+}
+#nextandprev{
+  display: flex;
+  font-size: 119px;
+  color: rgb(42, 129, 151);
+  margin-top: -407px;
+  position: absolute;
+  margin-left: 50px;
+  
+}
+
+#nextBut{
+margin-left: 810px;
+cursor: pointer;
+}
+
+#prevBut{
+cursor: pointer;
+}
+
+#mainnextandprev{
+ display: flex;
+    font-size: 119px;
+    margin-top: 542px;
+    position: absolute;
+    margin-left: 50px;
+  
+}
+#slider{
+display: flex;
+}
+#mainnextandprev{
+  display: flex;
+  font-size: 119px;
+  color: white;
+  margin-top: -450px;
+  position: absolute;
+  margin-left: 50px;
+  
+}
+#iconsBlok{
+position: relative;
+}
+#mainnextBut{
+margin-left: 810px;
+cursor: pointer;
+}
+
+#mainprevBut{
+cursor: pointer;
+}
+#main3blok{
+  position: relative;
+  transition: all ease 1s;
+  left: 0;
+}
+}
